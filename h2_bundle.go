@@ -31,7 +31,7 @@ import (
 	"encoding/binary"
 	"errors"
 	"fmt"
-	tls "github.com/bogdanfinn/utls"
+	tls "github.com/john122334/utls"
 	"io"
 	"io/ioutil"
 	"log"

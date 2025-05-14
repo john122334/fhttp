@@ -15,7 +15,7 @@ import (
 
 	"github.com/bogdanfinn/fhttp/cookiejar"
 	"github.com/bogdanfinn/fhttp/httptest"
-	tls "github.com/bogdanfinn/utls"
+	tls "github.com/john122334/utls"
 	"golang.org/x/net/publicsuffix"
 
 	http "github.com/bogdanfinn/fhttp"

@@ -27,7 +27,7 @@ import (
 	"testing"
 	"time"
 
-	tls "github.com/bogdanfinn/utls"
+	tls "github.com/john122334/utls"
 
 	. "github.com/bogdanfinn/fhttp"
 	"github.com/bogdanfinn/fhttp/httptest"

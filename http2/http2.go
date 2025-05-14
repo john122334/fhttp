@@ -25,7 +25,7 @@ import (
 	"strings"
 	"sync"
 
-	tls "github.com/bogdanfinn/utls"
+	tls "github.com/john122334/utls"
 
 	http "github.com/bogdanfinn/fhttp"
 
