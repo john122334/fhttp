@@ -11,7 +11,7 @@ import (
 	"io"
 	"strings"
 
-	tls "github.com/john122334/utls"
+	tls "github.com/bogdanfinn/utls"
 
 	http "github.com/bogdanfinn/fhttp"
 )
